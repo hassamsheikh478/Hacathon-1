@@ -225,7 +225,7 @@ body {
 }
 
 /* MAIN LAYOUT */
-.why-choose-us .container {
+.why-choose-us .audi{
     width: 90%;
     max-width: 1300px;
     margin: auto;
@@ -238,7 +238,6 @@ body {
 .left-image img {
     width: 550px;
     max-width: 100%;
-    object-fit: contain;
 }
 
 /* RIGHT SIDE CONTENT */
